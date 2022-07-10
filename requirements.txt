@@ -56,4 +56,3 @@ traitlets==5.3.0
 urllib3==1.26.10
 wcwidth==0.2.5
 Werkzeug==2.1.2
-
